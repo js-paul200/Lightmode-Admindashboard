@@ -130,7 +130,7 @@ small{
     background: var(--color-success-light);
 }
 
-/* ======nav bar */
+/* ==============NAVBAR======================= */
 nav{
     width: 100%;
     background: var(--color-white);
@@ -474,7 +474,7 @@ main section.right .investments .investment:hover{
     background: var(--color-light);
     cursor: pointer;
 }
-/* ================RECENT TRANSACTIONS */
+/* ================RECENT TRANSACTIONS=========================== */
 main .recent-transactions{
     margin-top: 2rem;
 }
@@ -594,7 +594,7 @@ main .recent-transactions .card-details .card{
         margin-top: 3rem;
     }
 }
-/* ======FOR MOBILE DEVICES========= */
+/* =================FOR MOBILE DEVICES===================== */
 @media screen and (max-width: 600px) {
     nav .profile-area{
         gap: 2.6rem;
